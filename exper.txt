@@ -1,2 +1,3 @@
 i added for checking push command
+Work Done: There was already a repo on github, i clone it using "git clone <http url>" command and push it on git hub with updated code
 Added By KKK :)
